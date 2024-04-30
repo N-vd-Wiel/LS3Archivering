@@ -11,7 +11,7 @@ Het is vervolgens aan te raden om mede-onderzoekers even te laten controleren of
 - Om in te loggen in OSF moet je gewoon naar de website gaan (<https://osf.io/>), en kies je rechtsboven de blauwe optie “Sign In”. Mocht je toch geen OSF-account hebben, dan kan je de groene optie “Sign Up” gebruiken en de stappen daar volgen. 
 - Na het inloggen maak je voor iedere aparte studie je een nieuw project aan, hiervoor kies je rechtsboven de groene optie “Create new project”.
 
-![Het venster als je inlogt op OSF.](/images/Afbeelding1.png){width=600px}
+![Het venster als je inlogt op OSF.](/Images/Afbeelding1.png){width=600px}
   
 !! Let er bij het maken van je project op dat je een server kiest binnen Europa, onder de optie “Storage location”.
   
