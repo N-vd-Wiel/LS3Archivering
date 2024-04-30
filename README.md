@@ -44,14 +44,14 @@ Het is vervolgens aan te raden om mede-onderzoekers even te laten controleren of
 
 - Vervolgens kan je de data eenvoudig downloaden in verschillende formaten. Let erop dat je de vragen exporteert als “Volledige vraag”, dan wordt zowel de vraagcode vanzelf als variablenaam meegegeven, en de vraag zelf als label.
  
-![ ](//Images/Afbeelding8.png){width=600px}
+![ ](/Images/Afbeelding8.png){width=600px}
 
  Met het oog opnieuw op Open Science en het gebruik van FAIR data raden we aan om de data te downloaden als .csv, Excel, beide R-bestanden, en als SPSS). 
 
 
 - Om de data te downloaden als SPSS-bestand kies je in de vorige stap “Exporteer responsen naar SPSS” als optie: 
  
-![ ](//Images/Afbeelding9.png){width=600px}
+![ ](/Images/Afbeelding9.png){width=600px}
 
 - In het volgende scherm kies je vervolgens beide bestanden.
 
